@@ -1,5 +1,6 @@
 <div id="header" align="center">
-<iframe src="https://giphy.com/embed/eDDrmbtY0aSAII8ffT" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-eDDrmbtY0aSAII8ffT">via GIPHY</a></p>
+
+                                                                                  <img width="50%" height = "250px" src=""https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif " alt="cover" align="right" />
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/aytac-huseynova-04719222a/5">
@@ -13,5 +14,12 @@
   </a>
 
 </div>
+<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+
+
+
+<h2> About Me </h2>
+
+- 🌱 I’m currently learning Front-End
 
 
