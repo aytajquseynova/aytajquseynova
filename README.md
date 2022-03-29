@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-1MSVKRopegDjYONwdF" width="100" height="200"/>
+<iframe src="https://giphy.com/embed/eDDrmbtY0aSAII8ffT" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-eDDrmbtY0aSAII8ffT">via GIPHY</a></p>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/aytac-huseynova-04719222a/5">
