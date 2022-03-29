@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-                                                                                  <img width="50%" height = "250px" src=""https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif " alt="cover" align="right" />
+                                                                                  <img width="50%" height = "250px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif " alt="cover" align="right" />
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/aytac-huseynova-04719222a/5">
