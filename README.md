@@ -34,16 +34,11 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"</a></p>
 
-<div align="center">
+<div align="right">
 
 ![Aytajquseynova's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=aytajquseynova)</div>
     <br> <br>
-    <br> <br>
-    <br> <br>
-    <br> <br>
-    <br> <br>
-    <br> <br>
-    <br>
+  >
     <br>
      <img src="https://activity-graph.herokuapp.com/graph?username=aytajquseynova&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
