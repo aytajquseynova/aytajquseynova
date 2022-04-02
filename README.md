@@ -38,4 +38,5 @@
 ![](https://raw.githubusercontent.com/aytajquseynova/github-stats-transparent/output/generated/languages.svg)
 
 
+![Aytajquseynova's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=aytajquseynova)
 
