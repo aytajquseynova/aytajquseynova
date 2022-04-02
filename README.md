@@ -32,10 +32,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"</a></p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aytajquseynova&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-![](https://raw.githubusercontent.com/aytajquseynova/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/aytajquseynova/github-stats-transparent/output/generated/languages.svg)
 
 
 ![Aytajquseynova's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=aytajquseynova)
