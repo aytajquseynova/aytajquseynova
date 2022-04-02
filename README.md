@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aytajquseynova.aytajquseynova">
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=aytajquseynova.aytajquseynova">
 <div align="center">
 <img width="230px"object-fit="cover" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" alt="cover" align="right"  />
 
@@ -37,5 +37,7 @@
 
 
 ![Aytajquseynova's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=aytajquseynova)
+    <br>
+     <img src="https://activity-graph.herokuapp.com/graph?username=aytajquseynova&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
