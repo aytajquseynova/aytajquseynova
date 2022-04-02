@@ -35,5 +35,5 @@
 
 
 ![Aytajquseynova's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=aytajquseynova)
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?aytajquseynova=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+ (https://github-readme-streak-stats.herokuapp.com/?aytajquseynova=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
