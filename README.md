@@ -33,9 +33,11 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"</a></p>
-    <div>  <img src="https://activity-graph.herokuapp.com/graph?username=aytajquseynova&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    <div>  <img src="https://activity-graph.herokuapp.com/graph?username=aytajquseynova&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></div
     <br>
 ![Aytajquseynova's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=aytajquseynova) 
+      
+![Aytajquseynova's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=aytajquseynova)
  
    
 
