@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aytajquseynova.aytajquseynova">
 <div align="center">
 <img width="230px"object-fit="cover" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" alt="cover" align="right"  />
 
