@@ -27,12 +27,27 @@
  <h4>   - 	:space_invader:Enjoys: learning, reading, writing, astrology, spritualism </h4>
     <div>  <img src="https://activity-graph.herokuapp.com/graph?username=aytajquseynova&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></div
     <br>
-     
-![Aytajquseynova's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=aytajquseynova)
+     <div align="center">   
+![Aytajquseynova's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=aytajquseynova&theme=dark&show_icons=true)
       <br>
       
-  <a href="https://github.com/aytajquseynova/github-readme-stats"><img alt="aytajquseynova's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aytajquseynova&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/aytajquseynova/github-readme-stats"><img alt="aytajquseynova's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aytajquseynova&langs_count=8&count_
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aytajquseynova&theme=dark&background=000000)](https://git.io/streak-stats)
+
+ </div>
+           private=true&layout=compact&theme=tokyonight&hide_border=true" /></a>
   <br/>
+      <div align="center">   
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GulcinMustafazada&theme=dark&show_icons=true)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GulcinMustafazada&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GulcinMustafazada&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
+           
  <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
