@@ -39,14 +39,7 @@
  </div>
            private=true&layout=compact&theme=tokyonight&hide_border=true" /></a>
   <br/>
-      <div align="center">   
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GulcinMustafazada&theme=dark&show_icons=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GulcinMustafazada&theme=dark&background=000000)](https://git.io/streak-stats)
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GulcinMustafazada&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- </div>
            
  <h3 align="left">Languages and Tools:</h3>
 <p align="left">
