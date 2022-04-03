@@ -40,7 +40,7 @@
         
   <br/>
 
-           
+ <div align="center">          
  <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -52,5 +52,5 @@
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"</a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp; </p>
-   
+   </div
 
