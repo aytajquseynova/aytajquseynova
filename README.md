@@ -30,6 +30,9 @@
      
 ![Aytajquseynova's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=aytajquseynova)
       <br>
+      
+  <a href="https://github.com/aytajquseynova/github-readme-stats"><img alt="aytajquseynova's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aytajquseynova&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" /></a>
+  <br/>
  <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
