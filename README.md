@@ -1,6 +1,6 @@
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=aytajquseynova.aytajquseynova">
 <div align="center">
-<img width="230px"object-fit="cover" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" alt="cover" align="right"  />
+<img width="230px"object-fit="cover" src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" alt="cover" align="right"  />
 
 </div>
 </div>
