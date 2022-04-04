@@ -1,11 +1,11 @@
-
+![Profile views](https://gpvc.arturio.dev/aytajquseynova)
 <div align="center">
 <img height="280px"object-fit="cover" src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" alt="cover" align="right"  />
 
 </div>
 </div>
 <div id="badges" align="center">
-![Profile views](https://gpvc.arturio.dev/aytajquseynova)
+
   <a href="https://www.linkedin.com/in/aytac-huseynova-04719222a/5">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
