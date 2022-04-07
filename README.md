@@ -9,9 +9,6 @@
   <a href="https://www.linkedin.com/in/aytac-huseynova-04719222a/5">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/aytajquseynova">
-    <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Youtube Badge"/>
-  </a>
 
 </div>
 <h2> Hi, Developers,I'm Aytaj Quseynova! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
