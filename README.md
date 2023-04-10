@@ -20,7 +20,7 @@
  <h4> 
 - 🌱I’m currently learning Front-End;<h4>
  <h4>   - 	:space_invader:Enjoys: learning, reading, writing, astrology, spritualism, listen to music </h4>
-    <div>  <img src="https://activity-graph.herokuapp.com/graph?username=aytajquseynova&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></div
+    <div></div
     <br>
      <div align="center">   
 
