@@ -20,9 +20,7 @@
  <h4> 
 - 🌱I’m currently learning Front-End;<h4>
 
-    <div></div
-    <br>
-     <div align="center">   
+   
 
   ![Aytajquseynova's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=aytajquseynova)
   <br>
