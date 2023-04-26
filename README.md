@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/aytajquseynova)
 <div align="center">
-<img height="280px"object-fit="cover" src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" alt="cover" align="right"  />
+<img height="280px"object-fit="cover" src="[https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif](https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif)" alt="cover" align="right"  />
 
 </div>
 </div>
