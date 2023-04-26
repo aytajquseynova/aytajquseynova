@@ -20,14 +20,6 @@
  <h4> 
 - 🌱I’m currently learning Front-End;<h4>
 
-   
-
-  ![Aytajquseynova's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=aytajquseynova)
-  <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aytajquseynova&theme=dark&background=000000)](https://git.io/streak-stats)
-       <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aytajquseynova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
  </div>
  </div>
         
