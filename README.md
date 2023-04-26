@@ -19,7 +19,7 @@
 
  <h4> 
 - 🌱I’m currently learning Front-End;<h4>
- <h4>   - 	:space_invader:Enjoys: learning, reading, writing, astrology, spritualism, listen to music </h4>
+
     <div></div
     <br>
      <div align="center">   
