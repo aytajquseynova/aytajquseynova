@@ -1,14 +1,10 @@
-![Profile views](https://gpvc.arturio.dev/aytajquseynova)
+
 <div align="center">
 <img height="280px"object-fit="cover" src="https://media2.giphy.com/media/IoP0PvbbSWGAM/200.webp?cid=ecf05e476zugz3npjieb7qjfd900kmvdks0p0vpza8nwqyj1&ep=v1_gifs_search&rid=200.webp&ct=g" alt="cover" align="right"  />
 
 </div>
 </div>
 <div id="badges">
-
-  <a href="https://www.linkedin.com/in/aytac-huseynova-04719222a/5">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 
 </div>
 <h2> Hi, Developers,I'm Aytaj Quseynova! </h2>
