@@ -11,7 +11,7 @@
 
 
 
-<h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  </h2>
+<h2> A little more about me...  </h2>
 
  <h4> 
 - 🌱I’m currently learning Front-End;<h4>
