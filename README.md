@@ -1,6 +1,6 @@
 
 <div align="center">
-<img height="280px"object-fit="cover" width = "200px" src="https://media.giphy.com/media/oZKuC9DJUK2yc/giphy.gif" alt="cover" align="right"  />
+<img height="280px"object-fit="cover" width = "400px" src="https://media.giphy.com/media/oZKuC9DJUK2yc/giphy.gif" alt="cover" align="right"  />
 
 </div>
 </div>
