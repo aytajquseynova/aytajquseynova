@@ -14,7 +14,7 @@
 <h2> A little more about me...  </h2>
 
  <h4> 
-- 🌱I’m currently learning Front-End;<h4>
+- 🌱I’m currently learning PHP;<h4>
 
  </div>
  </div>
