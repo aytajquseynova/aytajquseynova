@@ -29,7 +29,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
     </a>
    <a href="https://www.php.net/" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg " alt="Laravel" width="40" height="40"/>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg " alt="Laravel" width="40" height="40"/>
     </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://stijndv.com/goodies/big-sur-replacement-icons/VScode.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
