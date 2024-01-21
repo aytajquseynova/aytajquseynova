@@ -14,7 +14,8 @@
 <h2> A little more about me...  </h2>
 
  <h4> 
-- 🌱I’m currently learning Laravel;<h4>
+- 💬 Ask me about **Javascript, PHP, Laravel**
+- 🌱I’m currently learning web development;<h4>
 
  </div>
  </div>
