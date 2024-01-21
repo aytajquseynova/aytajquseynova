@@ -13,7 +13,7 @@
 
 <h2> A little more about me...  </h2>
 <h4>
-- 💬 Ask me about **Javascript, PHP, Laravel**
+- 💬 Ask me about Javascript, PHP, Laravel
 </h4>
  <h4> 
 - 🌱I’m currently learning web development;<h4>
