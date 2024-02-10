@@ -24,7 +24,7 @@
   <br/>
 
  <div align="left">          
-<h4> My favorite tools and technologies </h4>
+<h4> Tools and technologies </h4>
 <div style="display: flex; align-items: flex-start; justify-content: center;">
   <table>
     <tr>
