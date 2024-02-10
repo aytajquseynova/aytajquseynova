@@ -24,7 +24,7 @@
   <br/>
 
  <div align="left">          
- <h3 align="left">Languages and Tools:</h3>
+# 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; justify-content: center;">
   <table>
     <tr>
