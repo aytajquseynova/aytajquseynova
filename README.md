@@ -86,8 +86,14 @@
 </div>
 
 
-<p>![](https://github-readme-stats.vercel.app/api?username=aytajquseynova&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aytajquseynova&theme=dark&hide_border=false)<br/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aytajquseynova&show_icons=true&locale=en&layout=compact" alt="aytajquseynova" /></p>
+# My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aytajquseynova&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aytajquseynova&theme=dark&hide_border=false)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aytajquseynova&layout=compact&show_icons=true&locale=en)
+
    </div
 
