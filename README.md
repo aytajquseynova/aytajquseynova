@@ -7,11 +7,11 @@
 <div id="badges">
 
 </div>
-<h2> Hi, Developers,I'm Aytaj Quseynova! </h2>
+<h3> Hi, Developers,I'm Aytaj Quseynova! </h3>
 
 
 
-<h2> A little more about me...  </h2>
+<h3> A little more about me...  </h3>
 <h4>
 - 💬 Ask me about Javascript, PHP, Laravel
 </h4>
